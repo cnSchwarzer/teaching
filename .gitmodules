@@ -1,0 +1,3 @@
+[submodule "ep02/LivestreamExtract"]
+	path = ep02/LivestreamExtract
+	url = https://github.com/cnSchwarzer/LivestreamExtract.git
